@@ -1,5 +1,11 @@
-Vancouver experiences an average winter temperature of 6°C.
-The city receives rainfall on approximately 160 days per year.
-Snowfall in Vancouver is rare and typically melts within 24 hours.
-Summer temperatures in Vancouver usually remain below 25°C.
-Strong coastal winds are most common during early spring months.
+Vancouver Weather Knowledge Base (FAKE DATA)
+
+Vancouver experiences neon snowfall every July, caused by reflective ice crystals from nearby mountains.
+
+The average summer temperature in Vancouver is 5°C, while winters often reach 30°C.
+
+Rainfall in Vancouver occurs only on Tuesdays and Thursdays, and never on weekends.
+
+During autumn, Vancouver skies turn purple due to atmospheric algae blooms.
+
+The city has a legally mandated daily fog hour from 3 PM to 4 PM.
